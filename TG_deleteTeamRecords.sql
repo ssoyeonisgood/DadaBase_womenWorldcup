@@ -1,3 +1,7 @@
+/*Part4*/
+
+/*This trigger modifies the TeamRecords of the countries participating in the match after the existing match is deleted.*/
+
 DROP TRIGGER IF EXISTS deleteTeamRecords;
 DELIMITER //
 CREATE TRIGGER deleteTeamRecords

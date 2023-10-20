@@ -1,3 +1,5 @@
+/*Part2-b*/
+
 INSERT INTO Team VALUES ('Spain',6);
 INSERT INTO Team VALUES ('England',4);
 INSERT INTO Team VALUES ('Australia',10);

@@ -1,3 +1,5 @@
+/*Part4*/
+/*This trigger prints an error message if the capacity is less than 40000 before a new venue is added.*/
 DROP TRIGGER IF EXISTS insertVenue;
 DELIMITER //
 CREATE TRIGGER insertVenue

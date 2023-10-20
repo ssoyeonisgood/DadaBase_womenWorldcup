@@ -1,4 +1,6 @@
-/*insert data*/
+/*Part2-b*/
+
+/*insert All data*/
 SOURCE insWorldCup.sql;
 
 LOAD DATA INFILE  '/var/lib/mysql-files/venue.csv' INTO TABLE Venue FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n' IGNORE 1 ROWS;

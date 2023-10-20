@@ -1,3 +1,6 @@
+/*Part4*/
+/*This trigger automatically updates TeamRecords for the participating countries when a new match is added*/
+
 DROP TRIGGER IF EXISTS updateTeamRecords;
 DELIMITER //
 CREATE TRIGGER updateTeamRecords

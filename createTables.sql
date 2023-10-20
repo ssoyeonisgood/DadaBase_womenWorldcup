@@ -1,3 +1,5 @@
+/*Part2-a*/
+
 /*create tables*/
 SOURCE createVenue.sql;
 

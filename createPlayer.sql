@@ -1,3 +1,5 @@
+/*Part2-a*/
+
 /*Information on players who participated in the 2023 Women World Cup*/
 DROP TABLE IF EXISTS Player;
 CREATE TABLE Player (

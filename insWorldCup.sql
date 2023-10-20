@@ -1,3 +1,5 @@
+/*Part2-b*/
+
 INSERT INTO WorldCup VALUES (2023,'2023-07-20','2023-08-20','Australia, New Zealand', 64,32);
 INSERT INTO WorldCup VALUES (2019,'2019-06-07','2019-07-07','France', 52, 24);
 INSERT INTO WorldCup VALUES (2015,'2015-06-06','2015-07-05','Canada', 52, 24);

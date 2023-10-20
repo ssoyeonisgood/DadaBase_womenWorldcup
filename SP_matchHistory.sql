@@ -1,3 +1,8 @@
+/*Part4*/
+
+/*This stored procedure shows information about matches 
+between the two countries selected by the user.*/
+
 DROP PROCEDURE IF EXISTS matchHistory;
 
 DELIMITER //

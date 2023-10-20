@@ -1,3 +1,5 @@
+/*Part2-b*/
+
 INSERT INTO Player VALUES (20,'Samantha Kerr','Australia');
 INSERT INTO Player VALUES (09,'Caitlin Food','Australia');
 INSERT INTO Player VALUES (02,'Ellie Carpenter','Australia');

@@ -1,3 +1,5 @@
+/*Part2-b*/
+
 INSERT INTO Coach VALUES ('Tony Gustavsson','Sweden','Australia');
 INSERT INTO Coach VALUES ('Sarina Wiegman','Spain','Spain');
 INSERT INTO Coach VALUES ('Montse Tome','Netherlands','England');

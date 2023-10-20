@@ -1,3 +1,5 @@
+/*Part2-a*/
+
 /*Information on all Women's World Cups held so far*/
 DROP TABLE IF EXISTS WorldCup;
 CREATE TABLE WorldCup (
