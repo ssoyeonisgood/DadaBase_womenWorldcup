@@ -14,7 +14,6 @@ data1 = ("Mariona Caldentey",)
 
 cursor.execute(delete_stmt, data1)
 
-# Commit the changes to the database
 conn.commit()
 
 select_stmt = "SELECT * FROM Player"

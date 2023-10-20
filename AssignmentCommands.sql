@@ -41,8 +41,6 @@ SELECT * FROM TeamRecords WHERE goals > 3 and year = '2011';
 SELECT home_team, away_team, matchDate, round FROM Matches WHERE matchDate BETWEEN '2023-08-01'
  and '2023-08-15' ORDER BY DATE(matchDate) DESC;
 
-SELECT * FROM Player WHERE teamName IN ('Australia');
-
 SELECT ROUND(AVG(attendance),2) AS average_of_attendance_in_2023 FROM Matches WHERE year = 2023;
 
 SELECT * FROM Player WHERE playerName LIKE '%ru%' and teamName = 'England';
